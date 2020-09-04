@@ -7,7 +7,7 @@
 //
 
 import Cocoa
-public var nows = 0;
+public var nows = 3600;
 public var times = false;
 @NSApplicationMain
 

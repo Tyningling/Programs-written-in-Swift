@@ -19,11 +19,10 @@ class Menu : NSObject {
      //   let ts : Int = Int(Label1.stringValue);
     //    Label1.stringValue = MyGametime(a:ts);
      
-        Messagebox(a: "游戏时长", b: "您目前可以兑换" + "\(MyGametime(a:nows))" + "小时的游戏时间。" )
+       _ =  Messagebox(a: "游戏时长", b: "您目前可以兑换" + "\(MyGametime(a:nows))" + "分钟的游戏时间。" )
         
     }
 
-    
     @IBAction func Moer_menu2(_ sender: Any) {
         //自定义计时起点_Click
     }
@@ -33,8 +32,8 @@ class Menu : NSObject {
     }
     
     func MyGametime(a:Int) -> String{
-        let h : Float = 3600.00;
-        let Gametime : Float =  Float(a) / h  ;
+        let m : Float = 60.00;
+        let Gametime : Float = ( Float(a) / m ) / 60.0 * 10
         return "\(Gametime)";
     }
     
