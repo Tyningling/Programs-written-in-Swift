@@ -13,6 +13,7 @@
 		982AD610250115C900EEF29F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 982AD60E250115C900EEF29F /* Main.storyboard */; };
 		982AD6352501277E00EEF29F /* NsWindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982AD6342501277E00EEF29F /* NsWindowController.swift */; };
 		982AD639250152F100EEF29F /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982AD638250152F100EEF29F /* Menu.swift */; };
+		98C66D1A2503E73900DB409E /* windowinput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C66D192503E73900DB409E /* windowinput.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		982AD612250115C900EEF29F /* recordTime_storyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = recordTime_storyboard.entitlements; sourceTree = "<group>"; };
 		982AD6342501277E00EEF29F /* NsWindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NsWindowController.swift; sourceTree = "<group>"; };
 		982AD638250152F100EEF29F /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		98C66D192503E73900DB409E /* windowinput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = windowinput.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				982AD608250115C800EEF29F /* AppDelegate.swift */,
 				982AD60A250115C800EEF29F /* ViewController.swift */,
 				982AD6342501277E00EEF29F /* NsWindowController.swift */,
+				98C66D192503E73900DB409E /* windowinput.swift */,
 				982AD60C250115C900EEF29F /* Assets.xcassets */,
 				982AD60E250115C900EEF29F /* Main.storyboard */,
 				982AD638250152F100EEF29F /* Menu.swift */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98C66D1A2503E73900DB409E /* windowinput.swift in Sources */,
 				982AD6352501277E00EEF29F /* NsWindowController.swift in Sources */,
 				982AD60B250115C800EEF29F /* ViewController.swift in Sources */,
 				982AD639250152F100EEF29F /* Menu.swift in Sources */,

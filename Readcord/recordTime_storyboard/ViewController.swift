@@ -18,6 +18,7 @@ class ViewController: NSViewController {
     @IBOutlet weak var Button2: NSButton! //  stop-command
     @IBOutlet weak var Label1: NSTextField!
     
+    @IBOutlet var inputbox: NSView!
     
     override func viewDidLoad() {
         super.viewDidLoad();
@@ -36,7 +37,8 @@ class ViewController: NSViewController {
              Button1.title = "Start"
              Button2.title = "Stop"
              Label1.stringValue = "Time Record"
-        }
+            
+                     }
         else{
             exit(0);  // end sign
         }
@@ -47,9 +49,10 @@ class ViewController: NSViewController {
     @IBAction func Button1(_ sender: Any) {
         // Button_Start_Click
         
-        timer1 = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(self.tickDown), userInfo: nil, repeats: true);
-        times = true;
-        
+        if times != true{
+            timer1 = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(self.tickDown), userInfo: nil, repeats: true);
+            times = true;
+        }
     }
     
     @IBAction func Button2(_ sender: Any) {

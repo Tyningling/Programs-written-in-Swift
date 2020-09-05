@@ -6,19 +6,27 @@
 	<dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		L38rAH57m3i5wPxLSbS9JNit/dA=
+		d/093jiXHogrdknicx14v8zd60U=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		IE+lf+U4LaosOXat4HKp1y7QQKM=
+		wlIuuiiyHKc1OlYz59uzOkKMmP8=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-6xe-Tz-X3O.nib</key>
+		<data>
+		kTy7tng1G3gjOG2FnyxyL4SJhWs=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		XgYLKiYLd6B4pZ4HyhegOz0WPwg=
+		PO9n2BzQXHS593hU0qXXrBzsMvk=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/RBK-qa-ANH-view-cHM-D4-oRK.nib</key>
+		<data>
+		HFhFeDGg4gWjD/I/fzKoC3l7roQ=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		w4AvbSVYSdPKHNM9BBzIgLZN6Po=
+		ZcOW8IRJ2QoGRcSTZlYPpI11zY8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,28 +35,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7CdNcC/xOqvVoYqZM1xZ0PmzB7m+/0Oa+pOw7cmMDz4=
+			BDbIh/7i6+QyinFfSShflxn8jgktw0Co2dtbBqCJP8w=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7x509EKbutuFJkU1VBGLa7GltraUC4qiNeSDMNCRQN4=
+			wgzg6Nb1ibaN/VPg9FUnghK/nWkcMVhtGtS0Qq7uUiU=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-6xe-Tz-X3O.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ko5IwjHo9arjAguZxCuXHb8wJ13CZMQ0YdW88YVNAxY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hw+2BwG969d5L3w9k0wn5wieXdGLtPBDv1C+JtnKr/I=
+			5RLJLUwSeDC+u9auubtQrJAWVGSjqyh+h2tqZDTQXN4=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/RBK-qa-ANH-view-cHM-D4-oRK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X5DqWR3+2d1JtrJ6jJRWBISFWFeZ0erMQrO7xOPeekE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sq/k8JU2q7FlVmo0UktqpyiInjaV7+n7XsGkv3sXbNE=
+			KpvnTg29Vi7wWDD7OXl+HkMi8x8fpF/FVf/eLswnkko=
 			</data>
 		</dict>
 	</dict>

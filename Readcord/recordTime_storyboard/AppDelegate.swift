@@ -7,8 +7,9 @@
 //
 
 import Cocoa
-public var nows = 3600;
+public var nows : Int = 0;
 public var times = false;
+
 @NSApplicationMain
 
 class AppDelegate: NSObject, NSApplicationDelegate {
